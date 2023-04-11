@@ -1,0 +1,819 @@
+{
+    "popularChannels" : 
+[
+    {
+        "channelId": "2a548fcc-55e9-561d-9a77-f485fb69dad1",
+        "channelTitle": "BBC One London",
+        "platforms": {
+            "platformId": "p101",
+            "platformName": "Popular Channels",
+            "regions": [{
+                "regionId": "reg101",
+                "regionName": "London"
+            }],
+        "epgNumber": 1
+        }      
+    },
+    {
+            "channelId": "7a6cd877-f7c0-5d40-8862-0ad24318b712",
+            "channelTitle": "BBC Two HD",
+            "platforms": {
+                "platformId": "p101",
+                "platformName": "Popular Channels",
+                "regions": [{
+                    "regionId": "reg101",
+                    "regionName": "London"
+                }],
+            "epgNumber": 2
+            }
+        
+    },
+    {
+        "channelId": "f0eac74d-2245-57c9-9dfa-d8a54da0c066",
+        "channelTitle": "ITV London",
+        "platforms": {
+            "platformId": "p101",
+            "platformName": "Popular Channels",
+            "regions": [{
+                "regionId": "reg101",
+                "regionName": "London"
+            }],
+        "epgNumber": 3
+        }
+    
+    },
+    {
+        "channelId": "68c15822-accb-5595-a589-61524118dbd0",
+        "channelTitle": "Channel 4 HD",
+        "platforms": {
+            "platformId": "p101",
+            "platformName": "Popular Channels",
+            "regions": [{
+                "regionId": "reg101",
+                "regionName": "London"
+            }],
+        "epgNumber": 4
+        }
+    
+},
+{
+        "channelId": "681e8699-cfe0-571c-8917-0c4eb3305fe6",
+        "channelTitle": "Channel 5 HD",
+        "platforms": {
+            "platformId": "p101",
+            "platformName": "Popular Channels",
+            "regions": [{
+                "regionId": "reg101",
+                "regionName": "London"
+            }],
+        "epgNumber": 5
+        }
+    
+},
+{
+        "channelId": "64b0d836-b2b1-5a9c-a077-99fbd5dff799",
+        "channelTitle": "ITV2",
+        "platforms": {
+            "platformId": "p101",
+            "platformName": "Popular Channels",
+            "regions": [{
+                "regionId": "reg101",
+                "regionName": "London"
+            }],
+        "epgNumber": 6
+        }
+    
+},
+{
+        "channelId": "8dc66a04-043a-5c8e-aab3-a32343bd2016",
+        "channelTitle": "ITV3",
+        "platforms": {
+            "platformId": "p101",
+            "platformName": "Popular Channels",
+            "regions": [{
+                "regionId": "reg101",
+                "regionName": "London"
+            }],
+        "epgNumber": 7
+        }
+    
+},
+{
+        "channelId": "76c14546-b2bd-51d4-9760-4b24820686e2",
+        "channelTitle": "ITV4",
+        "platforms": {
+            "platformId": "p101",
+            "platformName": "Popular Channels",
+            "regions": [{
+                "regionId": "reg101",
+                "regionName": "London"
+            }],
+        "epgNumber": 8
+        }
+    
+},
+{
+        "channelId": "b5442f3a-c482-50d1-96d5-f25fd16f3e37",
+        "channelTitle": "E4",
+        "platforms": {
+            "platformId": "p101",
+            "platformName": "Popular Channels",
+            "regions": [{
+                "regionId": "reg101",
+                "regionName": "London"
+            }],
+        "epgNumber": 9
+        }
+    
+},
+{
+        "channelId": "d6ae0dba-9c18-5405-b222-264fe8e58aee",
+        "channelTitle": "4seven HD",
+        "platforms": {
+            "platformId": "p101",
+            "platformName": "Popular Channels",
+            "regions": [{
+                "regionId": "reg101",
+                "regionName": "London"
+            }],
+        "epgNumber": 10
+        }
+    
+},
+{
+        "channelId": "0235212c-4dd3-55ac-9106-e88718d8522e",
+        "channelTitle": "More4 HD",
+        "platforms": {
+            "platformId": "p101",
+            "platformName": "Popular Channels",
+            "regions": [{
+                "regionId": "reg101",
+                "regionName": "London"
+            }],
+        "epgNumber": 11
+        }
+    
+},
+{
+        "channelId": "f901fa21-ab8f-5cc3-b32e-bbcd494e1eaa",
+        "channelTitle": "Alibi HD",
+        "platforms": {
+            "platformId": "p101",
+            "platformName": "Popular Channels",
+            "regions": [{
+                "regionId": "reg101",
+                "regionName": "London"
+            }],
+        "epgNumber": 12
+        }
+    
+},
+{
+        "channelId": "30050daf-5792-5ca4-90f9-f2f776be9d1f",
+        "channelTitle": "Drama",
+        "platforms": {
+            "platformId": "p101",
+            "platformName": "Popular Channels",
+            "regions": [{
+                "regionId": "reg101",
+                "regionName": "London"
+            }],
+        "epgNumber": 13
+        }
+    
+},
+{
+        "channelId": "4349d19d-7f6e-5c77-9d62-4cc3fd296a46",
+        "channelTitle": "W HD",
+        "platforms": {
+            "platformId": "p101",
+            "platformName": "Popular Channels",
+            "regions": [{
+                "regionId": "reg101",
+                "regionName": "London"
+            }],
+        "epgNumber": 14
+        }
+    
+},{
+    "channelId": "3bcfb0f1-9e88-5a6d-a4ab-f1be1dd8fca6",
+    "channelTitle": "Discovery Channel HD",
+    "platforms": {
+        "platformId": "p101",
+        "platformName": "Popular Channels",
+        "regions": [{
+            "regionId": "reg101",
+            "regionName": "London"
+        }],
+    "epgNumber": 15
+    }
+
+},
+{
+        "channelId": "83a00f21-a841-5d34-8566-522c17c13253",
+        "channelTitle": "GOLD",
+        "platforms": {
+            "platformId": "p101",
+            "platformName": "Popular Channels",
+            "regions": [{
+                "regionId": "reg101",
+                "regionName": "London"
+            }],
+        "epgNumber": 16
+        }
+    
+},
+{
+        "channelId": "715f4b2b-b1a9-5ce4-aaa0-7de29db1bbfe",
+        "channelTitle": "Dave",
+        "platforms": {
+            "platformId": "p101",
+            "platformName": "Popular Channels",
+            "regions": [{
+                "regionId": "reg101",
+                "regionName": "London"
+            }],
+        "epgNumber": 17
+        }
+    
+},
+{
+        "channelId": "b7a17396-ed24-57fa-8070-1189ba659ab5",
+        "channelTitle": "Yesterday",
+        "platforms": {
+            "platformId": "p101",
+            "platformName": "Popular Channels",
+            "regions": [{
+                "regionId": "reg101",
+                "regionName": "London"
+            }],
+        "epgNumber": 18
+        }
+    
+},
+{
+        "channelId": "fd22499a-bc88-5836-a639-7fad80310d7f",
+        "channelTitle": "Really",
+        "platforms": {
+            "platformId": "p101",
+            "platformName": "Popular Channels",
+            "regions": [{
+                "regionId": "reg101",
+                "regionName": "London"
+            }],
+        "epgNumber": 19
+        }
+    
+},
+{
+        "channelId": "c0ad2509-49f0-508b-aaa3-9693382e1d31",
+        "channelTitle": "Quest",
+        "platforms": {
+            "platformId": "p101",
+            "platformName": "Popular Channels",
+            "regions": [{
+                "regionId": "reg101",
+                "regionName": "London"
+            }],
+        "epgNumber": 20
+        }
+    
+},
+{
+        "channelId": "a7b21ed3-4835-5065-8824-cc04de2e5733",
+        "channelTitle": "ITVBe",
+        "platforms": {
+            "platformId": "p101",
+            "platformName": "Popular Channels",
+            "regions": [{
+                "regionId": "reg101",
+                "regionName": "London"
+            }],
+        "epgNumber": 21
+        }
+    
+},
+    {
+            "channelId": "17430b79-ac54-55a9-8530-1b62247e9d9f",
+            "channelTitle": "Sky Atlantic HD",
+            "platforms": {
+                "platformId": "p101",
+                "platformName": "Popular Channels",
+                "regions": [{
+                    "regionId": "reg101",
+                    "regionName": "London"
+                }],
+            "epgNumber": 22
+            }
+        
+    },
+    {
+            "channelId": "764670b6-615b-50f5-ad2f-a0393d3f8e84",
+            "channelTitle": "NOW Sky Max",
+            "platforms": {
+                "platformId": "p101",
+                "platformName": "Popular Channels",
+                "regions": [{
+                    "regionId": "reg101",
+                    "regionName": "London"
+                }],
+            "epgNumber": 23
+            }
+        
+            
+    },
+    {
+            "channelId": "97f1b34a-7cb5-5410-bbf2-9bec1b0e9f03",
+            "channelTitle": "Sky Showcase HD",
+            "platforms": {
+                "platformId": "p101",
+                "platformName": "Popular Channels",
+                "regions": [{
+                    "regionId": "reg101",
+                    "regionName": "London"
+                }],
+            "epgNumber": 24
+            }
+        
+    },
+    {
+            "channelId": "538e4786-ea3b-5ab2-8336-94d0077a17b1",
+            "channelTitle": "Sky Replay",
+            "platforms": {
+                "platformId": "p101",
+                "platformName": "Popular Channels",
+                "regions": [{
+                    "regionId": "reg101",
+                    "regionName": "London"
+                }],
+            "epgNumber": 25
+            }
+        
+    },
+    {
+            "channelId": "3b83dd3f-4d82-525f-9975-db4b475a0f72",
+            "channelTitle": "Sky Witness HD",
+            "platforms": {
+                "platformId": "p101",
+                "platformName": "Popular Channels",
+                "regions": [{
+                    "regionId": "reg101",
+                    "regionName": "London"
+                }],
+            "epgNumber": 26
+            }
+        
+    },
+    {
+            "channelId": "22977e4a-eb2e-5467-980a-999f72b68d79",
+            "channelTitle": "ITV London+1",
+            "platforms": {
+                "platformId": "p101",
+                "platformName": "Popular Channels",
+                "regions": [{
+                    "regionId": "reg101",
+                    "regionName": "London"
+                }],
+            "epgNumber": 27
+            }
+        
+    },
+    {
+            "channelId": "63755bbb-a59e-5283-b6ed-d10ce511c4f5",
+            "channelTitle": "Channel 4 +1",
+            "platforms": {
+                "platformId": "p101",
+                "platformName": "Popular Channels",
+                "regions": [{
+                    "regionId": "reg101",
+                    "regionName": "London"
+                }],
+            "epgNumber": 28
+            }
+        
+    },
+    {
+            "channelId": "05c6d95b-4fb3-51ca-977f-7dc0d9365e8c",
+            "channelTitle": "Channel 5 +1",
+            "platforms": {
+                "platformId": "p101",
+                "platformName": "Popular Channels",
+                "regions": [{
+                    "regionId": "reg101",
+                    "regionName": "London"
+                }],
+            "epgNumber": 29
+            }
+        
+    },
+    {
+        "channelId": "9512892c-d864-513c-b630-abb5df6b49f4",
+        "channelTitle": "5STAR",
+        "platforms": {
+            "platformId": "p101",
+            "platformName": "Popular Channels",
+            "regions": [{
+                "regionId": "reg101",
+                "regionName": "London"
+            }],
+        "epgNumber": 30
+        }
+    
+},
+{
+    "channelId": "4b75d2ae-672b-5d6f-b1d8-a0b2761fde3a",
+    "channelTitle": "5USA",
+    "platforms": {
+        "platformId": "p101",
+        "platformName": "Popular Channels",
+        "regions": [{
+            "regionId": "reg101",
+            "regionName": "London"
+        }],
+    "epgNumber": 31
+    }
+
+},
+{
+        "channelId": "1a83cd94-9972-5ecf-9243-853212ca1fe1",
+        "channelTitle": "Pick",
+        "platforms": {
+            "platformId": "p101",
+            "platformName": "Popular Channels",
+            "regions": [{
+                "regionId": "reg101",
+                "regionName": "London"
+            }],
+        "epgNumber": 32
+        }
+    
+},
+{
+        "channelId": "12dff427-501a-599b-b079-df70f10c8fb0",
+        "channelTitle": "National Geographic WILD HD",
+        "platforms": {
+            "platformId": "p101",
+            "platformName": "Popular Channels",
+            "regions": [{
+                "regionId": "reg101",
+                "regionName": "London"
+            }],
+        "epgNumber": 33
+        }
+    
+}
+,
+    {
+            "channelId": "00d14913-7340-5fe2-8a31-a36cd104817a",
+            "channelTitle": "Comedy Central HD",
+            "platforms": {
+                "platformId": "p101",
+                "platformName": "Popular Channels",
+                "regions": [{
+                    "regionId": "reg101",
+                    "regionName": "London"
+                }],
+            "epgNumber": 34
+            }
+        
+    },
+    {
+        "channelId": "f6e11bfb-2e51-56f6-b07f-781cee908fd7",
+        "channelTitle": "Crime + Investigation HD",
+        "platforms": {
+            "platformId": "p101",
+            "platformName": "Popular Channels",
+            "regions": [{
+                "regionId": "reg101",
+                "regionName": "London"
+            }],
+        "epgNumber": 35
+        }
+    
+},
+{
+        "channelId": "2109be88-a3e5-5b9a-a58d-9e6008036fb7",
+        "channelTitle": "Food Network",
+        "platforms": {
+            "platformId": "p101",
+            "platformName": "Popular Channels",
+            "regions": [{
+                "regionId": "reg101",
+                "regionName": "London"
+            }],
+        "epgNumber": 36
+        }
+    
+},
+{
+        "channelId": "dc5ee50c-ffc7-534b-878a-867a3fc9dcad",
+        "channelTitle": "HGTV",
+        "platforms": {
+            "platformId": "p101",
+            "platformName": "Popular Channels",
+            "regions": [{
+                "regionId": "reg101",
+                "regionName": "London"
+            }],
+        "epgNumber": 37
+        }
+    
+},
+{
+        "channelId": "72f51c73-c52b-5304-a085-ec013cb9224d",
+        "channelTitle": "Sky Sci-Fi HD",
+        "platforms": {
+            "platformId": "p101",
+            "platformName": "Popular Channels",
+            "regions": [{
+                "regionId": "reg101",
+                "regionName": "London"
+            }],
+        "epgNumber": 38
+        }
+    
+},{
+    "channelId": "022ec304-25b9-5b07-aaf1-c90a0393abce",
+    "channelTitle": "5Action",
+    "platforms": {
+        "platformId": "p101",
+        "platformName": "Popular Channels",
+        "regions": [{
+            "regionId": "reg101",
+            "regionName": "London"
+        }],
+    "epgNumber": 39
+    }
+
+},
+{
+        "channelId": "78098f21-bf32-5904-b18b-aed05a18658e",
+        "channelTitle": "CBS Reality",
+        "platforms": {
+            "platformId": "p101",
+            "platformName": "Popular Channels",
+            "regions": [{
+                "regionId": "reg101",
+                "regionName": "London"
+            }],
+        "epgNumber": 40
+        }
+    
+},
+{
+        "channelId": "98ea0e09-d0fa-5bf5-92d5-d5f0212de38c",
+        "channelTitle": "E! Entertainment",
+        "platforms": {
+            "platformId": "p101",
+            "platformName": "Popular Channels",
+            "regions": [{
+                "regionId": "reg101",
+                "regionName": "London"
+            }],
+        "epgNumber": 41
+        }
+    
+},
+{
+        "channelId": "e3c93210-b317-55ea-bd26-103cfc55f429",
+        "channelTitle": "BBC News Channel HD",
+        "platforms": {
+            "platformId": "p101",
+            "platformName": "Popular Channels",
+            "regions": [{
+                "regionId": "reg101",
+                "regionName": "London"
+            }],
+        "epgNumber": 42
+        }
+    
+},
+{
+        "channelId": "44472b93-5847-55f0-9193-cd22f3140063",
+        "channelTitle": "CBeebies HD",
+        "platforms": {
+            "platformId": "p101",
+            "platformName": "Popular Channels",
+            "regions": [{
+                "regionId": "reg101",
+                "regionName": "London"
+            }],
+        "epgNumber": 43
+        }
+    
+},
+{
+        "channelId": "ed63d062-0021-594f-a9ce-f2bfdd854d1c",
+        "channelTitle": "Film4 HD",
+        "platforms": {
+            "platformId": "p101",
+            "platformName": "Popular Channels",
+            "regions": [{
+                "regionId": "reg101",
+                "regionName": "London"
+            }],
+        "epgNumber": 44
+        }
+    
+},
+{
+        "channelId": "d1ee87df-4c5d-5b6b-8da2-de6b138819bb",
+        "channelTitle": "Sky Cinema Premiere HD",
+        "platforms": {
+            "platformId": "p101",
+            "platformName": "Popular Channels",
+            "regions": [{
+                "regionId": "reg101",
+                "regionName": "London"
+            }],
+        "epgNumber": 45
+        }
+    
+},
+{
+        "channelId": "1c6823a3-5cfd-5e9f-8ae6-b34599ee4eea",
+        "channelTitle": "BT Sport 1HD",
+        "platforms": {
+            "platformId": "p101",
+            "platformName": "Popular Channels",
+            "regions": [{
+                "regionId": "reg101",
+                "regionName": "London"
+            }],
+        "epgNumber": 46
+        }
+    
+},
+{
+        "channelId": "c2ad5fc0-de9e-534c-9e21-98098030ae46",
+        "channelTitle": "BT Sport 2 HD",
+        "platforms": {
+            "platformId": "p101",
+            "platformName": "Popular Channels",
+            "regions": [{
+                "regionId": "reg101",
+                "regionName": "London"
+            }],
+        "epgNumber": 47
+        }
+    
+},
+{
+        "channelId": "a5e3939c-4fdb-5574-8749-4d164f18b935",
+        "channelTitle": "Sky Sports The Hundred HD",
+        "platforms": {
+            "platformId": "p101",
+            "platformName": "Popular Channels",
+            "regions": [{
+                "regionId": "reg101",
+                "regionName": "London"
+            }],
+        "epgNumber": 48
+        }
+    
+},
+{
+        "channelId": "455e1b1b-cdc6-54f1-9dce-8c6ab2fa16f7",
+        "channelTitle": "Sky Sports F1 HD",
+        "platforms": {
+            "platformId": "p101",
+            "platformName": "Popular Channels",
+            "regions": [{
+                "regionId": "reg101",
+                "regionName": "London"
+            }],
+        "epgNumber": 49
+        }
+    
+},
+    {
+            "channelId": "d6386094-d216-5906-a4f1-fcc0090abb82",
+            "channelTitle": "Sky Sports Football HD",
+            "platforms": {
+                "platformId": "p101",
+                "platformName": "Popular Channels",
+                "regions": [{
+                    "regionId": "reg101",
+                    "regionName": "London"
+                }],
+            "epgNumber": 50
+            }
+        
+    },
+    {
+            "channelId": "3e747b7c-7ee4-556e-b21f-af1c9c44375e",
+            "channelTitle": "Sky Sports Main Event HD",
+            "platforms": {
+                "platformId": "p101",
+                "platformName": "Popular Channels",
+                "regions": [{
+                    "regionId": "reg101",
+                    "regionName": "London"
+                }],
+            "epgNumber": 51
+            }
+        
+    },
+    {
+            "channelId": "b7a17396-ed24-57fa-8070-1189ba659ab5",
+            "channelTitle": "Sky Sports Premier League HD",
+            "platforms": {
+                "platformId": "p101",
+                "platformName": "Popular Channels",
+                "regions": [{
+                    "regionId": "reg101",
+                    "regionName": "London"
+                }],
+            "epgNumber": 52
+            }
+        
+    },
+    {
+            "channelId": "0813713e-ca6c-5309-a36d-852e769462c6",
+            "channelTitle": "Blaze",
+            "platforms": {
+                "platformId": "p101",
+                "platformName": "Popular Channels",
+                "regions": [{
+                    "regionId": "reg101",
+                    "regionName": "London"
+                }],
+            "epgNumber": 53
+            }
+        
+    },
+    {
+            "channelId": "e0a3096b-d09e-54ad-a2d1-c926005ec375",
+            "channelTitle": "MTV",
+            "platforms": {
+                "platformId": "p101",
+                "platformName": "Popular Channels",
+                "regions": [{
+                    "regionId": "reg101",
+                    "regionName": "London"
+                }],
+            "epgNumber": 54
+            }
+        
+    }
+    ,
+    {
+            "channelId": "7236be36-ddcb-5d5f-84b8-8e801f2b88fa",
+            "channelTitle": "Nick Jr.",
+            "platforms": {
+                "platformId": "p101",
+                "platformName": "Popular Channels",
+                "regions": [{
+                    "regionId": "reg101",
+                    "regionName": "London"
+                }],
+            "epgNumber": 55
+            }
+        
+    },
+    {
+            "channelId": "a5ffbdea-e651-52e5-b1c6-b6bbbfa6bbc9",
+            "channelTitle": "Nickelodeon HD",
+            "platforms": {
+                "platformId": "p101",
+                "platformName": "Popular Channels",
+                "regions": [{
+                    "regionId": "reg101",
+                    "regionName": "London"
+                }],
+            "epgNumber": 56
+            }
+        
+    },
+    {
+            "channelId": "5cf5cad4-f772-5594-8f04-66bf5dc0a9b5",
+            "channelTitle": "Pop",
+            "platforms": {
+                "platformId": "p101",
+                "platformName": "Popular Channels",
+                "regions": [{
+                    "regionId": "reg101",
+                    "regionName": "London"
+                }],
+            "epgNumber": 57
+            }
+        
+    },
+    {
+            "channelId": "bd6dfcf8-b312-5f90-89b7-e996d4b5756e",
+            "channelTitle": "Tiny Pop",
+            "platforms": {
+                "platformId": "p101",
+                "platformName": "Popular Channels",
+                "regions": [{
+                    "regionId": "reg101",
+                    "regionName": "London"
+                }],
+            "epgNumber": 58
+            }
+        
+    }
+
+
+]
+}
